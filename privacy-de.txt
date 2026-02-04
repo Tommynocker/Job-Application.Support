@@ -1,0 +1,50 @@
+Datenschutzerklärung
+Diese Datenschutzerklärung gilt für die App Job Application (im Folgenden „App“) für mobile Endgeräte, die von Thomas Rakowski (im Folgenden „Dienstanbieter“) als kostenloser Service bereitgestellt wird. Die App wird „wie sie ist“ („AS IS“) angeboten.
+1. Erhebung und Verwendung von Informationen
+Die App erfasst Informationen, wenn du sie herunterlädst und nutzt. Dazu können insbesondere gehören:
+die Internetprotokoll-Adresse (IP-Adresse) deines Geräts
+welche Bereiche/Seiten der App du aufrufst, Datum und Uhrzeit deines Besuchs sowie die Verweildauer dort
+die gesamte Nutzungsdauer der App
+das Betriebssystem deines mobilen Endgeräts
+Die App sammelt keine präzisen Standortdaten (z. B. GPS-Genauigkeit).
+Die App kann jedoch Standortinformationen nutzen, um deinen ungefähren geografischen Standort zu bestimmen und diese Daten wie folgt zu verwenden:
+
+Standortdienste: Zur Bereitstellung von Funktionen wie personalisierten Inhalten, relevanten Empfehlungen und standortbezogenen Diensten.
+Analyse und Verbesserungen: Aggregierte und anonymisierte Standortdaten helfen dabei, Nutzerverhalten zu analysieren, Trends zu erkennen und Leistung sowie Funktionalität der App zu verbessern.
+Drittanbieter-Dienste: In regelmäßigen Abständen können anonymisierte Standortdaten an externe Dienste übermittelt werden. Diese helfen dabei, die App zu verbessern und Angebote zu optimieren.
+Der Dienstanbieter kann die von dir bereitgestellten Informationen außerdem gelegentlich nutzen, um dich zu kontaktieren, z. B. für wichtige Informationen, erforderliche Hinweise oder Marketingaktionen.
+Für eine bessere Nutzungserfahrung kann der Dienstanbieter dich während der Nutzung der App bitten, bestimmte personenbezogene Daten bereitzustellen. Die vom Dienstanbieter angeforderten Daten werden gespeichert und wie in dieser Datenschutzerklärung beschrieben verwendet.
+
+2. Zugriff durch Dritte
+Nur aggregierte, anonymisierte Daten werden regelmäßig an externe Dienste übermittelt, um dem Dienstanbieter zu helfen, die App und den Service zu verbessern. Der Dienstanbieter kann Informationen in den in dieser Datenschutzerklärung beschriebenen Fällen an Dritte weitergeben.
+Bitte beachte, dass die App Dienste von Drittanbietern nutzt, die eigene Datenschutzerklärungen zur Datenverarbeitung haben. Die App verwendet folgende Drittanbieter:
+
+AdMob (Google) – Datenschutzerklärung: https://support.google.com/admob/answer/6128543?hl=en
+Der Dienstanbieter kann von Nutzern bereitgestellte oder automatisch erfasste Informationen offenlegen:
+wenn dies gesetzlich erforderlich ist (z. B. zur Erfüllung einer behördlichen oder gerichtlichen Anordnung),
+wenn der Dienstanbieter in gutem Glauben davon ausgeht, dass die Offenlegung notwendig ist, um Rechte zu schützen, deine Sicherheit oder die Sicherheit anderer zu gewährleisten, Betrug zu untersuchen oder auf behördliche Anfragen zu reagieren,
+gegenüber vertrauenswürdigen Dienstleistern, die im Auftrag des Dienstanbieters arbeiten, die Informationen nicht eigenständig nutzen und sich zur Einhaltung dieser Datenschutzerklärung verpflichtet haben.
+3. Widerspruch / Opt-Out
+Du kannst die Erfassung von Informationen durch die App jederzeit beenden, indem du die App deinstallierst. Dazu kannst du die Standard-Deinstallationsfunktionen deines Geräts oder des App-Marktplatzes nutzen.
+4. Speicherdauer (Data Retention)
+Der Dienstanbieter speichert von Nutzern bereitgestellte Daten so lange, wie du die App nutzt, und für eine angemessene Zeit danach. Wenn du möchtest, dass von dir bereitgestellte Nutzerdaten gelöscht werden, kontaktiere bitte den Dienstanbieter unter: thomas.rakowski@icloud.com. Der Dienstanbieter wird innerhalb angemessener Zeit antworten.
+5. Kinder
+Der Dienstanbieter richtet sich nicht an Kinder unter 13 Jahren und sammelt nicht wissentlich personenbezogene Daten von Kindern unter 13 Jahren.
+Die App richtet sich nicht an Personen unter 13 Jahren. Sollte der Dienstanbieter feststellen, dass ein Kind unter 13 Jahren personenbezogene Daten bereitgestellt hat, werden diese umgehend gelöscht. Wenn du als Elternteil oder Erziehungsberechtigter weißt, dass dein Kind personenbezogene Daten übermittelt hat, kontaktiere bitte den Dienstanbieter unter thomas.rakowski@icloud.com, damit die notwendigen Schritte eingeleitet werden können.
+
+6. Sicherheit
+Der Dienstanbieter legt Wert auf den Schutz deiner Daten. Es werden angemessene physische, elektronische und organisatorische Maßnahmen eingesetzt, um die vom Dienstanbieter verarbeiteten und gespeicherten Informationen zu schützen.
+7. Änderungen dieser Datenschutzerklärung
+Diese Datenschutzerklärung kann gelegentlich aus beliebigen Gründen aktualisiert werden. Der Dienstanbieter informiert über Änderungen, indem diese Seite mit der neuen Datenschutzerklärung aktualisiert wird. Du solltest diese Datenschutzerklärung regelmäßig prüfen, da die weitere Nutzung der App als Zustimmung zu den Änderungen gilt.
+Diese Datenschutzerklärung gilt ab: 2025-01-19
+
+8. Einwilligung
+Durch die Nutzung der App erklärst du dich mit der Verarbeitung deiner Informationen gemäß dieser Datenschutzerklärung – in der jeweils aktuellen Fassung – einverstanden.
+9. Kontakt
+Wenn du Fragen zum Datenschutz bei der Nutzung der App hast oder Fragen zu den Praktiken bestehen, kontaktiere bitte den Dienstanbieter per E-Mail: thomas.rakowski@icloud.com.
+Wenn du willst, kann ich dir auch noch eine sehr kurze “Paywall-Version” machen (2 Links + 1 Satz), die Apple im Abo-Screen sehen will.
+ja mach das
+Hier ist eine kurze Paywall-Version (Apple-konform), die du direkt unter den Preisen platzieren kannst:
+Abo-Hinweis
+Das Abo verlängert sich automatisch, sofern es nicht mindestens 24 Stunden vor Ablauf gekündigt wird. Die Abrechnung erfolgt über dein Apple-ID-Konto. Verwalten und kündigen kannst du das Abo in den Einstellungen deines Apple-ID-Kontos.
+
